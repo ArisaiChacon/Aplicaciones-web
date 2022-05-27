@@ -1,0 +1,193 @@
+body
+{
+    
+    width: 1000px;
+    height: 1250px;
+    margin: auto;
+    background-color: wheat; 
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+}
+nav
+{
+    background-color: rgb(53, 32, 53);
+    width: 1000px;
+    height: 100px;
+    float: left;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Curriculum
+{
+    background-color: rgb(86, 216, 205);
+    width: 1000px;
+    height: 100px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header
+{
+    background-color: violet;
+    width: 1000px;
+    height: 250px;
+    float: left;
+}
+.foto
+{
+    width: 190px;
+    height: 230px;
+    float: left;
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+}
+.Datos
+{
+    background-color: rgb(86, 216, 205);
+    width: 790px;
+    height: 35px;
+    float: left;
+    border-top: 10px solid black;
+    border-left: 10px solid black;
+    display: flex;
+}
+.Personales
+{
+    background-color: rgb(255, 255, 255);
+    width: 790px;
+    height: 185px;
+    float: left;
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+    border-left: 10px solid black; 
+}
+main
+{
+    background-color: violet;
+    width: 1000px;
+    height: 900px;
+    float: left;
+}
+.Experiencia
+{
+    background-color: rgb(86, 216, 205);
+    width: 1000px;
+    height: 35px;
+    float: left;
+}
+.laboral
+{
+    background-color: rgb(255, 255, 255);
+    width: 1000px;
+    height: 80px;
+    float: left;
+}
+.Educacion
+{
+    background-color: rgb(86, 216, 205);
+    width: 1000px;
+    height: 35px;
+    float: left;
+
+}
+.formacion
+{
+    background-color: rgb(255, 255, 255);
+    width: 1000px;
+    height: 140px;
+    float: left;
+}
+.Capacidades
+{
+    background-color: rgb(47, 126, 119);
+    width: 1000px;
+    height: 35px;
+    float: left;
+}
+.Lengua
+{
+    background-color: rgb(86, 216, 205);
+    width: 1000px;
+    height: 35px;
+    float: left;
+}
+.tecnicas
+{
+    background-color: rgb(86, 216, 205);
+    width: 1000px;
+    height: 35px;
+   float:left;
+}
+.tecnicas2
+{
+    background-color: rgb(255, 255, 255);
+    width: 1000px;
+    height: 130px;
+    float: left;
+}
+.lengua2
+{
+    background-color: rgb(255, 255, 255);
+    width: 1000px;
+    height: 40px;
+    float: left;
+}
+.idiomas2
+{
+    background-color: rgb(255, 255, 255);
+    width: 1000px;
+    height: 40px;
+    float: left;
+}
+.idiomas
+{
+    background-color: rgb(86, 216, 205);
+    width: 1000px;
+    height: 35px;
+    float: left;
+}
+.permiso
+{
+    background-color: rgb(86, 216, 205);
+    width: 1000px;
+    height: 35px;
+    float: left;
+}
+.informacion
+{
+    background-color: rgb(86, 216, 205);
+    width: 1000px;
+    height: 35px;
+    float: left;
+}
+.permiso2
+{
+    background-color: rgb(255, 255, 255);
+    width: 1000px;
+    height: 50px;
+    float: left;
+}
+.informacion2
+{
+    background-color: rgb(255, 255, 255);
+    width: 1000px;
+    height: 140px;
+    float: left;
+}
+.Dt
+{
+    width: 400px;
+    height: 18px;
+    margin: 8px; 
+}
+
+
+
+
+
